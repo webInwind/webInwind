@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **webInwind/webInwind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=MUYIio&show_icons=true&theme=radical">
+
+### 👋嗨！我是Aleen WU
+
+- 👉 关于我：菜鸟前端一枚
+- 🌱 正在学习：vue3/react/Ts/...
+- 📫 邮箱：1289325056@qq.com
+- ❤️ 爱好：打游戏，看电影
+- 🌍 博客：[Aleen WU's Blog](https://webinwind.github.io/blog/)
+
+
+
+<img align="center" src="https://cdn.jsdelivr.net/gh/xmuli/xmuliPic@pic/2020/dino.gif" width="70%"/>
